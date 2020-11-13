@@ -7,8 +7,10 @@ The current model maxes out its accuracy around 60%, which is quite decent, but 
 The end goal is to be able to give the model a string you would like to have hidden, then have the program generate a human-sounding paragraph that 
 hides your text using the famous first letter null cipher.
 
-An example the model generated was,
+An example the model generated was as follows.
+
 Hidden text: i am the secret
+
 Model produced text: street,  is  a  musking  the  hand  everything  staluling  equally  carry,"  reflect.  every  time in it of the 
 consideration bulsed on that copulspose of wramur "to--stopped; now. is you laid to as he had made his words.
 

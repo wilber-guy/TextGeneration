@@ -9,10 +9,10 @@ hides your text using the famous first letter null cipher.
 
 An example the model generated was as follows.
 
-Hidden text: i am the secret
+<b>Hidden text </b>  <i>i am the secret</i>
 
-Model produced text: street,  is  a  musking  the  hand  everything  staluling  equally  carry,"  reflect.  every  time in it of the 
-consideration bulsed on that copulspose of wramur "to--stopped; now. is you laid to as he had made his words.
+<b>Model produced text </b>  <i>street,  is  a  musking  the  hand  everything  staluling  equally  carry,"  reflect.  every  time in it of the 
+consideration bulsed on that copulspose of wramur "to--stopped; now. is you laid to as he had made his words.</i>
 
 If you read the first letter of each word, you will see it spells out our hidden text. However, you will also notice the text is a bunch of gibberish that makes
 no sense and is spelled wrong about as often as it is correct.

@@ -1,8 +1,10 @@
 <h2>LSTM for null cipher generation</h2>
 This project is a Bidirectional LSTM for generating the next character in a list of strings. 
 
-The idea is to build a system capable of producing human-like text. 
+The idea is to build a system capable of producing human-like text.
 The current model maxes out its accuracy around 60%, which is quite decent, but still, nothing compared to a human.
+
+The script is set up to train on Nivida GPU so long as you have the required CUDDA. Training takes a couple hours with current model size. 
 
 The end goal is to be able to give the model a string you would like to have hidden, then have the program generate a human-sounding paragraph that 
 hides your text using the famous first letter null cipher.
